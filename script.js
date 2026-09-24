@@ -2,7 +2,7 @@
  let counter = 0;
 
         const counterElement = document.getElementById("counter");
-        const incrementBtn = document.getElementById("incrementBtn");
+        const incrementbtn = document.getElementById("incrementbtn");
 
         incrementBtn.addEventListener("click", function() {
             alert(counter);
